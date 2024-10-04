@@ -23,4 +23,5 @@ Distribution Patterns: The histogram provided a clear view of the distribution, 
 Key Takeaways
 Power BI Capabilities: Power BI’s robust visualization tools allow for the creation of detailed and interactive reports, making complex data more accessible and insightful.
 Effective Data Communication: Using bar charts and histograms in Power BI can effectively convey important trends and distributions, facilitating better understanding and decision-making.
-image
+
+![353705020-ebee914c-02eb-45f2-b6ed-b24c0635740c](https://github.com/user-attachments/assets/69e4963c-9053-45d4-8083-8c11fe79b13d)
